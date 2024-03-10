@@ -1,0 +1,26 @@
+{
+"name": "zheshiyedeqidiqizhangfeuuw-fwufw",
+"version": "1.0.0",
+"description": "We have an active community where you can get help, share experiences, and meet like-minded friends.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/tautuiakikeis/Community-Support.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "tautuiakikeis",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
